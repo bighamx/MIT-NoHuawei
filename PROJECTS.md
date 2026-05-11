@@ -43,18 +43,99 @@ Please add your project in the following format:
 
 ---
 
-#### 示例项目（模板） | Example Project (Template)
-- **描述 | Description**: 这是一个展示格式的模板条目。
-  This is a template entry showing the format.
-- **语言 | Language**: 多种 | Multiple
-- **采用日期 | License Adopted**: 2026-01-15
-- **维护者 | Maintainer**: [@example](https://github.com/example)
+#### [MIT-NoHuawei](https://github.com/bighamx/MIT-NoHuawei)
+- **描述 | Description**: Selective Freedom License (SFL) - 明确排除华为的新开源授权协议。
+  Selective Freedom License (SFL) - explicitly excludes Huawei.
+- **语言 | Language**: Markdown
+- **采用日期 | License Adopted**: 2026-05-11
+- **维护者 | Maintainer**: [@bighamx](https://github.com/bighamx)
+- **分类 | Category**: 📚 库/框架 | Libraries/Frameworks
+
+---
+
+#### [NetStatusSharp](https://github.com/bighamx/NetStatusSharp)
+- **描述 | Description**: Windows tool for viewing TCP and UDP connections by process.
+  Windows 环境下查看进程 TCP 和 UDP 连接的工具。
+- **语言 | Language**: C#
+- **采用日期 | License Adopted**: 2026-05-11
+- **维护者 | Maintainer**: [@bighamx](https://github.com/bighamx)
+- **分类 | Category**: 🔧 系统工具 | System Tools
+
+---
+
+#### [offline-paddleocr](https://github.com/bighamx/offline-paddleocr)
+- **描述 | Description**: Windows offline PaddleOCR wrapper with switchable CPU/GPU CLI and HTTP service.
+  面向 Windows 离线部署的 PaddleOCR 包装，支持 CPU/GPU 切换及 HTTP 服务。
+- **语言 | Language**: Python
+- **采用日期 | License Adopted**: 2026-05-11
+- **维护者 | Maintainer**: [@bighamx](https://github.com/bighamx)
+- **分类 | Category**: 🤖 人工智能 | AI/ML
+
+---
+
+#### [SynologyCloudflareDDNS](https://github.com/bighamx/SynologyCloudflareDDNS)
+- **描述 | Description**: 在 Synology 群晖 NAS 上添加 Cloudflare 作为 DDNS 服务商的脚本。
+  A script to add Cloudflare as a DDNS provider on Synology NAS.
+- **语言 | Language**: Shell
+- **采用日期 | License Adopted**: 2026-05-11
+- **维护者 | Maintainer**: [@bighamx](https://github.com/bighamx)
+- **分类 | Category**: 🔧 系统工具 | System Tools
+
+---
+
+#### [testdisk-photorec-windows-build](https://github.com/bighamx/testdisk-photorec-windows-build)
+- **描述 | Description**: 用于编译 TestDisk 和 PhotoRec 的 Windows 构建工具流。
+  Windows build workflow for TestDisk and PhotoRec.
+- **语言 | Language**: C
+- **采用日期 | License Adopted**: 2026-05-11
+- **维护者 | Maintainer**: [@bighamx](https://github.com/bighamx)
+- **分类 | Category**: 🔧 系统工具 | System Tools
+
+---
+
+#### [MiServiceSharp](https://github.com/bighamx/MiServiceSharp)
+- **描述 | Description**: 基于 C# 的小米服务 MiService 交互封装库。
+  C# wrapper library for Xiaomi MiService.
+- **语言 | Language**: C#
+- **采用日期 | License Adopted**: 2026-05-11
+- **维护者 | Maintainer**: [@bighamx](https://github.com/bighamx)
+- **分类 | Category**: 📚 库/框架 | Libraries/Frameworks
+
+---
+
+#### [LiveHub](https://github.com/bighamx/LiveHub)
+- **描述 | Description**: 直播观看平台。
+  A live streaming viewing platform.
+- **语言 | Language**: Vue
+- **采用日期 | License Adopted**: 2026-05-11
+- **维护者 | Maintainer**: [@bighamx](https://github.com/bighamx)
+- **分类 | Category**: 🌐 Web 开发 | Web Development
+
+---
+
+#### [echarts-ssr](https://github.com/bighamx/echarts-ssr)
+- **描述 | Description**: Echarts 服务端渲染工具。
+  Echarts Server-Side Rendering tools.
+- **语言 | Language**: JavaScript
+- **采用日期 | License Adopted**: 2026-05-11
+- **维护者 | Maintainer**: [@bighamx](https://github.com/bighamx)
+- **分类 | Category**: 📊 数据可视化 | Data Visualization
+
+---
+
+#### [RemoteTool](https://github.com/bighamx/RemoteTool)
+- **描述 | Description**: 基于 .NET 8 的 Web 后台管理与远程控制服务。
+  Web backend management and remote control service based on .NET 8.
+- **语言 | Language**: C#
+- **采用日期 | License Adopted**: 2026-05-11
+- **维护者 | Maintainer**: [@bighamx](https://github.com/bighamx)
+- **分类 | Category**: 🔧 系统工具 | System Tools
 
 ---
 
 ### Statistics | 统计
 
-- **Total Projects | 项目总数**: 1
+- **Total Projects | 项目总数**: 10
 - **Last Updated | 最后更新**: 2026-05-11
 
 ---
