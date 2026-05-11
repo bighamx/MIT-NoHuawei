@@ -60,13 +60,30 @@ Standard boilerplate provisions for legal robustness.
 
 ### How to Use This License
 
-#### Step 1: Copy the License File
+#### Method 1: Fork This Repository (Recommended)
+
+The easiest way to adopt SFL for your project:
+
+1. **Fork this repository** to your GitHub account
+2. **Add your project link** to the [Projects Using SFL](#projects-using-sfl) list below via pull request
+3. **Reference this repository** in your project's README:
+   ```markdown
+   This project is licensed under the [Selective Freedom License (SFL) v1.0](https://github.com/[ORIGINAL-REPO-URL]).
+   ```
+
+By forking and linking back to this repository, your project automatically inherits the license terms and any future updates.
+
+#### Method 2: Manual Integration
+
+If you prefer to include the license directly in your project:
+
+##### Step 1: Copy the License File
 
 Copy the [`LICENSE`](./LICENSE) file into the root directory of your project.
 
 > A Chinese reference translation is available at [`LICENSE-CN.md`](./LICENSE-CN.md) for convenience. The English version is the legally binding version.
 
-#### Step 2: Update the Copyright Notice
+##### Step 2: Update the Copyright Notice
 
 In the `LICENSE` file, replace:
 ```
@@ -77,7 +94,7 @@ with your actual name or organization name, for example:
 Copyright (c) 2026 John Doe
 ```
 
-#### Step 3: Add License Notice to Your Project
+##### Step 3: Add License Notice to Your Project
 
 Add the following to your README or a prominent location in your project:
 
@@ -86,7 +103,7 @@ This project is licensed under the Selective Freedom License (SFL) v1.0.
 See the [LICENSE](./LICENSE) file for full terms.
 ```
 
-#### Step 4 (Optional): Add Header to Source Files
+##### Step 4 (Optional): Add Header to Source Files
 
 You may add the following header to each source file:
 
@@ -95,6 +112,14 @@ Copyright (c) 2026 [YOUR NAME]
 Licensed under the Selective Freedom License (SFL) v1.0.
 See LICENSE file for details.
 ```
+
+---
+
+### Projects Using SFL
+
+See the complete list of projects using the Selective Freedom License: **[PROJECTS.md](./PROJECTS.md)**
+
+Add your project to the list via pull request!
 
 ### FAQ
 
@@ -168,13 +193,30 @@ A: The current version of SFL is specifically drafted for excluding Huawei. If y
 
 ### 使用方法
 
-#### 第一步：复制许可证文件
+#### 方法一：Fork 本仓库（推荐）
+
+采用 SFL 最简单的方式：
+
+1. **Fork 本仓库**到你的 GitHub 账号
+2. **添加你的项目链接**到下方的[使用 SFL 的项目](#使用-sfl-的项目)列表（通过 pull request）
+3. **在你的项目 README 中引用本仓库**：
+   ```markdown
+   本项目采用[选择性自由许可证 (SFL) v1.0](https://github.com/[原始仓库地址])授权。
+   ```
+
+通过 fork 并链接回本仓库，你的项目将自动继承许可证条款及未来的任何更新。
+
+#### 方法二：手动集成
+
+如果你希望直接在项目中包含许可证：
+
+##### 第一步：复制许可证文件
 
 将 [`LICENSE`](./LICENSE) 文件复制到你项目的根目录。
 
 > 中文参考译本请见 [`LICENSE-CN.md`](./LICENSE-CN.md)，仅供参考，不具有法律约束力。具有法律约束力的为英文原版 LICENSE 文件。
 
-#### 第二步：更新版权信息
+##### 第二步：更新版权信息
 
 在 `LICENSE` 文件中，将：
 ```
@@ -185,7 +227,7 @@ Copyright (c) 2026 [COPYRIGHT HOLDER]
 Copyright (c) 2026 张三
 ```
 
-#### 第三步：在项目中添加许可证声明
+##### 第三步：在项目中添加许可证声明
 
 在你的 README 或项目显眼位置添加：
 
@@ -194,7 +236,7 @@ Copyright (c) 2026 张三
 完整条款请参阅 [LICENSE](./LICENSE) 文件。
 ```
 
-#### 第四步（可选）：在源代码文件中添加头部声明
+##### 第四步（可选）：在源代码文件中添加头部声明
 
 你可以在每个源代码文件中添加以下头部：
 
@@ -203,6 +245,14 @@ Copyright (c) 2026 [你的名字]
 采用选择性自由许可证 (SFL) v1.0 授权。
 详见 LICENSE 文件。
 ```
+
+---
+
+### 使用 SFL 的项目
+
+查看采用选择性自由许可证的项目完整列表：**[PROJECTS.md](./PROJECTS.md)**
+
+欢迎通过 pull request 添加你的项目到列表中！
 
 ### 常见问题
 
