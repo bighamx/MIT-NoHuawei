@@ -2,6 +2,25 @@
 
 [English](#english) | [中文](#中文) | [中文版许可证](./LICENSE-CN.md)
 
+## Table of Contents / 目录
+- [English](#english)
+  - [Overview](#overview)
+  - [Creation Motivation](#creation-motivation)
+  - [How is SFL Different from MIT?](#how-is-sfl-different-from-mit)
+  - [Key Provisions Explained](#key-provisions-explained)
+  - [How to Use This License](#how-to-use-this-license)
+  - [Projects Using SFL](#projects-using-sfl)
+  - [FAQ](#faq)
+- [中文](#中文)
+  - [概述](#概述)
+  - [创立缘由](#创立缘由)
+  - [SFL 与 MIT 的区别](#sfl-与-mit-的区别)
+  - [核心条款解读](#核心条款解读)
+  - [使用方法](#使用方法)
+  - [使用 SFL 的项目](#使用-sfl-的项目)
+  - [常见问题](#常见问题)
+- [License](#license)
+
 ---
 
 <a name="english"></a>
@@ -12,6 +31,16 @@
 **Selective Freedom License (SFL)** is an open-source software license derived from the MIT License. It retains the permissive nature of MIT — allowing free use, modification, and distribution — while explicitly excluding a specific restricted entity from receiving any license rights.
 
 The name "Selective Freedom" reflects the core philosophy: **freedom is extended to all, except those who are explicitly and deliberately excluded.**
+
+### Creation Motivation
+
+The creation of the **Selective Freedom License (SFL)** is a direct response to, and expression of profound dissatisfaction with, Huawei's shameless exploitation of the open-source community. 
+
+Specifically, Huawei engaged in "technical freeloading" against the open-source project `OpenHarmony-NET/OpenHarmony.Avalonia`. In this incident, Huawei ostensibly negotiated cooperation with the original open-source developers, extracting core technical solutions and research for adapting the .NET Avalonia framework to OpenHarmony. However, instead of honoring the partnership, Huawei secretly took these technical materials and opened them up for public bidding to low-cost outsourcing companies. After obtaining the core technology and validating the feasibility, Huawei kicked the original open-source team out, reaping the benefits of their uncompensated labor and entirely disregarding open-source ethics, commercial credibility, and developer trust. 
+
+You can read more about this incident in the following sources:
+* [NetEase News: 曝华为“白嫖”开源团队技术方案!踢了对方转头低价找外包!](https://www.163.com/dy/article/KSL09FJR0534B9EY.html#post_comment_area)
+* [OpenHarmony-NET Developer Announcement](https://github.com/OpenHarmony-NET/.github/blob/main/profile/README.md)
 
 ### How is SFL Different from MIT?
 
@@ -145,6 +174,16 @@ A: The current version of SFL is specifically drafted for excluding Huawei. If y
 **选择性自由许可证 (Selective Freedom License, SFL)** 是一个基于 MIT 许可证的开源软件许可证。它保留了 MIT 的宽松特性——允许自由使用、修改和分发——同时明确排除特定限制实体获得任何许可权利。
 
 "选择性自由"这个名称反映了其核心理念：**自由向所有人开放，但明确且刻意排除的实体除外。**
+
+### 创立缘由
+
+**选择性自由许可证 (SFL)** 的创立，直接源于对华为无耻榨取开源社区劳动成果的极度不满与抗议。
+
+具体而言，华为在对待 `OpenHarmony-NET/OpenHarmony.Avalonia` 开源项目时展现了极不道德的“技术性白嫖”行为。在该事件中，华为表面上与原创开源开发者（Avalonia团队及独立开发者）洽谈深度合作，诱导开源团队进行大量前期技术验证，以获取将 .NET Avalonia 框架适配鸿蒙系统的核心技术方案。然而，华为实际却背地里拿着属于开源团队提供的技术资料在招标平台上向国内低价外包公司（如软通动力）进行招标。在利用开源社区的信任无偿收割了前期的技术探索结晶后，华为转身便将原创实干的团队踢出局，交由廉价外包接盘。这种“空手套白狼”的行为不仅严重违背了商业诚信，更是对开源生态底线和开发者心血的肆意践踏。
+
+关于该事件的详细背景及证据，请参阅以下链接：
+* [网易新闻：曝华为“白嫖”开源团队技术方案!踢了对方转头低价找外包!](https://www.163.com/dy/article/KSL09FJR0534B9EY.html#post_comment_area)
+* [OpenHarmony-NET 开发者关于停止更新的公告](https://github.com/OpenHarmony-NET/.github/blob/main/profile/README.md)
 
 ### SFL 与 MIT 的区别
 
